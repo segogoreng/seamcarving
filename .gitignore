@@ -1,0 +1,8 @@
+*.txt
+.idea/
+.lift/
+*.class
+lib/
+.vscode/
+*.zip
+*.png
